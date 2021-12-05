@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "282413877949",
+    "project_id": "trabajo2franciscmora",
+    "storage_bucket": "trabajo2franciscmora.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282413877949:android:0235066fcedfbe5ca505d4",
+        "android_client_info": {
+          "package_name": "cl.doppler.trabajo2_franciscomora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282413877949-tsovha5a1chmbdjkgrt51mustg9dk6hk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDutSjCEfmev-nsg3M_XdnZtDVIcZ7ZH0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282413877949-tsovha5a1chmbdjkgrt51mustg9dk6hk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
