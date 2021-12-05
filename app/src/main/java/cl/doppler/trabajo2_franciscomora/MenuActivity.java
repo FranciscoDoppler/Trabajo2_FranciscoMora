@@ -20,12 +20,12 @@ public class MenuActivity extends AppCompatActivity {
 
 
         Intent intent2=new Intent(this, MapsActivity.class);
-        Intent intent11=new Intent(this,ListaActivity.class);
+        Intent intent1=new Intent(this,ListaActivity.class);
 
                 botoN.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View view) {
-                        startActivity(intent11);
+                        startActivity(intent1);
                         startActivity(intent2);
                     }
                 });
